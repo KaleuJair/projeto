@@ -1,7 +1,7 @@
-<h1 align="center"> Devlinks </h1>
+<h1 align="center"> NWL 10# Copa </h1>
 
 <p align="center">
-programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
