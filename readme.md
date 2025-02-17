@@ -1,4 +1,5 @@
-<h1 align="center"> Devlinks </h1>
+<h1 align="center"> DevLinks </h1>
+
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
@@ -17,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +36,8 @@ O DevLinks é um agregador de Links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://github.com/maykbrito/devlinks?tab=readme-ov-file). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
@@ -43,3 +45,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate
